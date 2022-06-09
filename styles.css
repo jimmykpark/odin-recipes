@@ -5,3 +5,19 @@ h1 {
     font-weight: bold;
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 400px;
+    text-align: center;
+}
+
+ul { 
+    color: #000000;
+    font-size: 14px;
+}
+
+.foodRecipe {
+    color: #740000;
+    font-size: 20px;
+}
