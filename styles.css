@@ -1,15 +1,20 @@
 /* styles.css */
 
+body {
+    background-color: rgb(199, 199, 199);
+}
 h1 {
     font-family: monospace, sans-serif, Helvetica;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
+    font-size: 40px;
 }
 
-img {
+div {
     height: auto;
     width: 400px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 ul { 
@@ -19,5 +24,6 @@ ul {
 
 .foodRecipe {
     color: #740000;
+    font-family: sans-serif, Helvetica, 'Times New Roman';
     font-size: 20px;
 }
